@@ -1,0 +1,7 @@
+{
+  "packs": {
+    "cc0-ui":  { "license": "CC0-1.0",     "source": "https://example.org/ui-pack" },
+    "ccby-icons": { "license": "CC-BY-4.0",   "source": "https://example.org/icons", "author": "Example Author" },
+    "nc-music":   { "license": "CC-BY-NC-4.0", "source": "https://example.org/music" }
+  }
+}
